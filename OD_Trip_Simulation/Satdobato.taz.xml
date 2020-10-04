@@ -1,0 +1,68 @@
+<additional>
+<tazs>
+
+<!-- A refers to the bottom most path -->
+<taz id="A1" edges="670112950#1"></taz>
+<taz id="A2" edges="670112950#2"></taz>
+<taz id="A3" edges="670112950#3"></taz>
+<taz id="A4" edges="670112950#4"></taz>   <!-- Right to Left-->
+<taz id="A5" edges="670112950#5"></taz>
+<taz id="A6" edges="751465455#0"></taz>
+<taz id="A7" edges="751465455#1"></taz>
+<taz id="A8" edges="751465454#0"></taz>
+<taz id="A9" edges="751465454#1"></taz>
+<taz id="A10" edges="670112950#5"></taz>
+
+<!-- B refers to 2nd path to the bottom most path -->
+<taz id="B1" edges="-231786206"></taz>
+<taz id="B2" edges="-216297391"></taz>
+<taz id="B3" edges="-216297386"></taz>  <!-- Left to Right-->
+<taz id="B4" edges="-225456436"></taz>
+<taz id="B5" edges="-225456437"></taz>
+
+<!-- C refers to the path above B-->
+<taz id="C1" edges="231786206"></taz>
+<taz id="C2" edges="216297391"></taz>
+<taz id="C3" edges="216297386"></taz>  <!-- Right to Left-->
+<taz id="C4" edges="225456436"></taz>
+<taz id="C5" edges="225456437"></taz>
+
+<!-- D refers to the path above B-->
+<taz id="D1" edges="751465452#4"></taz>
+<taz id="D2" edges="751465452#3"></taz>
+<taz id="D3" edges="751465452#2"></taz>
+<taz id="D4" edges="751465452#1"></taz>  <!-- Left to Right-->
+<taz id="D5" edges="751465452#0"></taz>
+<taz id="D6" edges="751465453#1"></taz>
+<taz id="D7" edges="751465453#0"></taz>
+<taz id="D8" edges="193085043#1"></taz>
+<taz id="D9" edges="193085043#0"></taz>
+
+<!-- EI refers to the roads connecting in turning from out to inward -->
+<taz id="EI1" edges="224842282#5"></taz>
+<taz id="EI2" edges="224842282#6"></taz>
+<taz id="EI3" edges="224842282#7"></taz>
+<taz id="EI4" edges="136517125#0"></taz>  <!-- Left to Right-->
+
+<!-- EO is outward directed of EI -->
+<taz id="EO1" edges="-136517125#0"></taz>
+<taz id="EO2" edges="-224842282#7"></taz>
+<taz id="EO3" edges="-224842282#6"></taz>
+<taz id="EO4" edges="-224842282#5"></taz>
+
+<taz id="T1" edges="224842282#0"></taz>
+<taz id="T2" edges="224842282#2"></taz>
+<taz id="T3" edges="224842282#3"></taz>
+<taz id="T4" edges="224842282#4"></taz>
+<taz id="T5" edges="136517125#1"></taz>
+<taz id="T6" edges="136517125#2"></taz>
+<taz id="T7" edges="172349747"></taz>
+<taz id="T8" edges="-172349743#1"></taz>
+
+<taz id="T9" edges="199430786#0"></taz>
+<taz id="T10" edges="-172349758#0"></taz>
+<taz id="T11" edges="-172651328"></taz>
+<taz id="T12" edges="-97053266#0"></taz>
+
+</tazs>
+</additional>

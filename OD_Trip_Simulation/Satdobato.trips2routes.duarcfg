@@ -1,0 +1,18 @@
+<configuration>
+<!-- Takes net-file and Odtrip file as input to give route file as an output -->
+
+<input>
+<net-file value="Satdobato.net.xml"/>
+<route-files value="SAtdobato.odtrips.xml"/>
+</input>
+
+<output>
+<output-file value="Satdobato.odtrips.rou.xml"/>
+</output>
+
+<report>
+<xml-validation value="never"/>
+<no-step-log value="true"/>
+</report>
+
+</configuration>

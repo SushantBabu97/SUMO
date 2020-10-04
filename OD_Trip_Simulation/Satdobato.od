@@ -1,0 +1,18 @@
+$O;D2
+* From-Time To-Time
+	0.00	1.00
+* Factor
+	1.00
+*
+* some
+* additional
+* Comments
+	A1	A9	50
+	B5	B1	75 
+	C1	C5	75
+	D9	D1	60
+	A1	T6	25
+	T1	T6	35
+	T9	T10	30
+	T9	T11	35
+	D9	T12	40

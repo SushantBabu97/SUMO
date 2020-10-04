@@ -1,0 +1,14 @@
+<configuration>
+<!-- This is the configuration file of SUMO simulation -->
+
+<input>
+<net-file value="Satdobato.net.xml"/>
+<route-files value="Satdobato.odtrips.rou.xml"/>
+</input>
+
+<time>
+<begin value="0"/>
+<end value="1000"/>
+</time>
+
+</configuration>

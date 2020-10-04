@@ -1,0 +1,13 @@
+<configuration>
+<input>
+<taz-files value="Satdobato.taz.xml"/>
+<od-matrix-files value="Satdobato.od"/>
+</input>
+
+<!--
+<output>
+<output-file value="Satdobato.odtrips.xml"/>
+</output>
+-->
+
+</configuration>
